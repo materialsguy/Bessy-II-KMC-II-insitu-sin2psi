@@ -8,4 +8,4 @@ Allows to:
 
 Example evaluation given in a Jupyter notebook. 
 
-Note: A New Version will be released 2024 with a publication. If you need access to it,  let me know. 
+Note: A New Version will be released 2024 with a publication.
