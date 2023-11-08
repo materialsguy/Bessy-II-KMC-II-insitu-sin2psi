@@ -5,3 +5,7 @@ Allows to:
 * Evaluate $\text{in situ}^2$ straining experiments to correlate the stress measured via $\text{in situ}^2$ with the strain from an Anton Paar tensile stage (https://www.anton-paar.com/ph-en/products/details/tensile-stage-ts-600/) with the electrical data measured via a Keythley.
 
 * Evaluate $\text{in situ}^2$ heating experiments to correlate the stress measured via $\text{in situ}^2$ with the temperature from an Anton Paar heating stage ([https://www.anton-paar.com/ph-en/products/details/tensile-stage-ts-600/](https://www.anton-paar.com/corp-en/products/details/domed-hot-stage-for-four-circle-goniometers-dhs-1100/)https://www.anton-paar.com/corp-en/products/details/domed-hot-stage-for-four-circle-goniometers-dhs-1100/).
+
+Example evaluation given in a Jupyter notebook. 
+
+Note: A New Version will be released 2024 with a publication. If you need access to it,  let me know. 
